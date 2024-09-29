@@ -1,0 +1,3 @@
+[submodule "fm24-data"]
+	path = fm24-data
+	url = https://github.com/bachtran02/fm24-data.git
